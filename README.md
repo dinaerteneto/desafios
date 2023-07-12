@@ -52,6 +52,7 @@ foreach ($usuarios as $usuario) {
     echo 'Função: ' . $usuario['funcao'] . '<br><br>';
 }
 ?>
+```
 
 ## Entrega
 
